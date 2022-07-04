@@ -10,6 +10,7 @@
 - 📫 How to reach me:
 
 Linkedin: https://www.linkedin.com/in/eda-bora/
+
 Mail: eddabora@hotmail.com
 
 - 🖥️ I work at Cybersoft as a software engineer.
