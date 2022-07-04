@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**eddabora/eddabora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 💻 I work as a software engineer
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Spring Framework
